@@ -18,5 +18,5 @@ Um projeto de teste com um arquivo README. 🚀
 ```
 2. Acesse a pasta do projeto
 ```
-cd repositorio-com-readme
+    cd repositorio-com-readme
 ```
